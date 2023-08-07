@@ -9,7 +9,7 @@ Performing data modeling, data wrangling and extract-load-transform using python
 * Crawler - Used to extract all the schema and information straight from S3
 * Amazon Athena - Running adhoc sql queries on the available data in S3
 * AWS Glue - data transformation
-* Amazon Redshift - storing the tranfromed dimensional model in datawarehouse 
+* Amazon Redshift - storing the transformed dimensional model in datawarehouse 
 * boto3 - aws python sdk for create, configure, and manage AWS services.
 
 **Architecture**
